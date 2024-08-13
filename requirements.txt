@@ -4,3 +4,4 @@ gunicorn
 numpy
 imutils
 opencv-python
+requests
