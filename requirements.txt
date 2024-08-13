@@ -1,0 +1,6 @@
+cv2
+fastapi
+uvicorn
+gunicorn
+numpy
+imutils
