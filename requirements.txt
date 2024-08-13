@@ -1,4 +1,3 @@
-cv2
 fastapi
 uvicorn
 gunicorn
